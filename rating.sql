@@ -22,7 +22,7 @@ insert into Reviewer values(201, 'Sarah Martinez');
 insert into Reviewer values(202, 'Daniel Lewis');
 insert into Reviewer values(203, 'Brittany Harris');
 insert into Reviewer values(204, 'Mike Anderson');
-insert into Reviewer values(205, 'Chris Rock');
+insert into Reviewer values(205, 'John White');
 insert into Reviewer values(206, 'Elizabeth Thomas');
 insert into Reviewer values(207, 'James Cameron');
 insert into Reviewer values(208, 'Ashley White');
