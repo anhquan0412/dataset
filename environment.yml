@@ -1,0 +1,23 @@
+# environment.yml
+name: ml30
+channels:
+    - conda-forge
+    - defaults
+
+dependencies:
+    - python=3.8
+    - pip
+    # Core specific python
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - selenium
+    - beautifulsoup4
+    # Jupyter environment
+    - notebook
+    - jupyter_contrib_nbextensions
+    # Machine Learning
+    - scikit-learn
+    - scipy
+    # Deep learning (We need to install tensorflow later)
